@@ -43,5 +43,5 @@ tasks.register('cleanAll') {
 }
 
 tasks.named('wrapper') {
-	gradleVersion = '8.8'
+	gradleVersion = '8.9'
 }
